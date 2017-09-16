@@ -9,14 +9,14 @@ in four ways using Angular animation system:
 
 3- **Hinge** 
 
-Hint: 
-- how many grades you think is gyrated this image? so many!... 
-- while rotate, image is scaled in 3d
+ Hint:
+ - take a look to  transform-origin
 
 4- **Crazy Time** 
 
- Hint:
- - take a look to  transform-origin
+ Hint: 
+- how many grades you think is gyrated this image? so many!... 
+- while rotate, image is scaled in 3d
  
 
 
