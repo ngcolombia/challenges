@@ -18,7 +18,7 @@ in four ways using Angular animation system:
 - how many grades you think is gyrated this image? so many!... 
 - while rotate, image is scaled in 3d
  
-
+And for  last, disappear one to one the elements in the view.
 
 ## Demo
 
