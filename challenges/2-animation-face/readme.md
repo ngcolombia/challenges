@@ -1,24 +1,14 @@
 # Animation Face
 
-Create an Angular Application that shows an adorable face animated
-in four ways using Angular animation system:
+Create an Angular Application that shows an adorable animated face.
 
-1- **Round Out** 
+## Hints
 
-2- **Rotate** 
-
-3- **Hinge** 
-
- Hint:
- - take a look to  transform-origin
-
-4- **Crazy Time** 
-
- Hint: 
-- how many grades you think is gyrated this image? so many!... 
-- while rotate, image is scaled in 3d
- 
-And for  last, disappear one to one the elements in the view.
+0. For **Hinge** take a look to  transform-origin
+0. For **Crazy Time**
+   - Use a lot of degrees
+   - Use 3D scale 
+0. For **Bye** disappear one elements at a time.
 
 ## Demo
 
