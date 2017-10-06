@@ -1,6 +1,6 @@
 # Angular Monthly Challenges
 
-## [3. Chuck Norris Joke 😎](./challenges/2-animation-face/readme.md)
+## [3. Chuck Norris Joke 😎](./challenges/3-chuck-norris-joke/readme.md)
 
 ![Demo](./challenges/3-chuck-norris-joke/demo.gif)
 
