@@ -1,4 +1,4 @@
-# Animation Face 😎
+# Chuck Norris Joke 😎
 
 Create an Angular Application that shows a Chuck Norris Joke every 6 seconds.
 
