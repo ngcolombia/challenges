@@ -14,7 +14,7 @@ use @ngrx libraries, patterns.
 
 ## Demo 💻
 
-See demo **[here](http://ngrx.github.io/example-app/)
+See demo **[here](http://ngrx.github.io/example-app/)**
 
 ![Demo](demo.gif)
 
