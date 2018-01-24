@@ -1,8 +1,20 @@
 # Book Collection :bowtie:
 
-Create an Angular Application that search books from google api and add/remove to a collection.
+Create an Angular Application that use google api ``` https://www.googleapis.com/books/v1/volumes ``` 
+
+## Details: 
+
+create a book collection manage.
+  - Can search for books 
+  - Can add them to their collection.
+  - Can remove them from their collection
+
+## Hint:
+use @ngrx libraries, patterns.
 
 ## Demo 💻
+
+See demo **[here](http://ngrx.github.io/example-app/)
 
 ![Demo](demo.gif)
 
