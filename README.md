@@ -1,5 +1,9 @@
 # Angular Monthly Challenges
 
+## [4. Book Collection :bowtie: ](./challenges/4-book-collection/readme.md)
+
+![Demo](./challenges/4-book-collection/demo.gif)
+
 ## [3. Chuck Norris Joke 😎](./challenges/3-chuck-norris-joke/readme.md)
 
 ![Demo](./challenges/3-chuck-norris-joke/demo.gif)
